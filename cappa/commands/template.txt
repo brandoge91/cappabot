@@ -1,0 +1,11 @@
+module.exports.execute = async (client, message, args) => {
+}
+
+
+
+
+module.exports.help = {
+    name: "help",
+    aliases: ["h"],
+    usage: `help`
+}
